@@ -30,12 +30,6 @@ Jinja2==3.0.1
 Js2Py==0.71
 json5==0.9.6
 jsonschema==3.2.0
-jupyter-client==6.1.12
-jupyter-core==4.7.1
-jupyter-server==1.8.0
-jupyterlab==3.0.16
-jupyterlab-pygments==0.1.2
-jupyterlab-server==2.6.0
 MarkupSafe==2.0.1
 matplotlib-inline==0.1.2
 mistune==0.8.4
@@ -53,7 +47,6 @@ pipwin==0.5.1
 playsound==1.2.2
 prometheus-client==0.11.0
 prompt-toolkit==3.0.19
-PyAudio @ file:///C:/Users/Admin/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 pycparser==2.20
 Pygments==2.9.0
 pyjsparser==2.7.1
@@ -75,7 +68,6 @@ Send2Trash==1.7.1
 six==1.16.0
 sniffio==1.2.0
 soupsieve==2.2.1
-SpeechRecognition==3.8.1
 sqlparse==0.4.1
 terminado==0.10.1
 testpath==0.5.0
